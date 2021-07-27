@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.e8ab90ab.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.a1def51e.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.a1def51e.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.fed61080.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.fed61080.js.map",
+    "static/js/2.81524b04.chunk.js": "/react-portfolio/static/js/2.81524b04.chunk.js",
+    "static/js/2.81524b04.chunk.js.map": "/react-portfolio/static/js/2.81524b04.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.e8ab90ab.chunk.css.map": "/react-portfolio/static/css/main.e8ab90ab.chunk.css.map",
+    "static/js/2.81524b04.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.81524b04.chunk.js.LICENSE.txt",
+    "static/media/amazon-2.ba83b651.png": "/react-portfolio/static/media/amazon-2.ba83b651.png",
+    "static/media/amazon.9f6e3a2e.png": "/react-portfolio/static/media/amazon.9f6e3a2e.png",
+    "static/media/available_on_app_store.7481b6dc.png": "/react-portfolio/static/media/available_on_app_store.7481b6dc.png",
+    "static/media/available_on_google_play.00da10ba.png": "/react-portfolio/static/media/available_on_google_play.00da10ba.png",
+    "static/media/batixi.73b0791e.png": "/react-portfolio/static/media/batixi.73b0791e.png",
+    "static/media/netflix-2.616e1fc3.png": "/react-portfolio/static/media/netflix-2.616e1fc3.png",
+    "static/media/netflix.e1f700d5.png": "/react-portfolio/static/media/netflix.e1f700d5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fed61080.js",
+    "static/js/2.81524b04.chunk.js",
+    "static/css/main.e8ab90ab.chunk.css",
+    "static/js/main.a1def51e.chunk.js"
+  ]
+}
