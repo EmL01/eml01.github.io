@@ -1,7 +1,7 @@
 {
-  "name": "react-portfolio",
+  "name": "eml01.github.io",
   "version": "0.1.0",
-  "homepage": "https://eml01.github.io/react-portfolio/",
+  "homepage": "https://eml01.github.io/",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.1.2",

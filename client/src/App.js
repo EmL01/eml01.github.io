@@ -107,14 +107,14 @@ function App() {
           <span className="xl:hidden" onClick={toggleDarkMode}>
             <svg
               xmlns="http://www.w3.org/2000/svg"
-              width="18"
-              height="12"
-              viewBox="0 0 18 12"
+              width="11.449"
+              height="15.266"
+              viewBox="0 0 11.449 15.266"
             >
               <path
-                id="ic_sort_24px"
-                d="M3,18H9V16H3ZM3,6V8H21V6Zm0,7H15V11H3Z"
-                transform="translate(-3 -6)"
+                id="ic_brightness_2_24px"
+                d="M8.816,2A7.613,7.613,0,0,0,5,3.03a7.619,7.619,0,0,1,0,13.2A7.63,7.63,0,1,0,8.816,2Z"
+                transform="translate(-5 -2)"
                 fill="#707070"
               />
             </svg>
@@ -166,7 +166,7 @@ function App() {
         </div>
         <div className="flex flex-col items-center justify-center">
           {/* Showcase */}
-          <div className="xl:flex items-center justify-center h-screen -mt-24">
+          <div className="xl:flex items-center justify-center h-screen">
             <div className="flex flex-col items-center xl:items-start my-20 xl:pr-24 xl:w-1/2">
               <h1 className="text-black font-bold text-center text-5xl dark:text-white">
                 Hi, I am Emile.
@@ -1992,7 +1992,7 @@ function App() {
           </div>
         </div>
         {/* About me */}
-        <div id="about-me" className="pt-28 2xl:w-1/2 2xl:mx-auto">
+        <div id="about-me" className="pt-28 2xl:w-9/12 2xl:mx-auto">
           <h1 className="text-black font-semibold text-center text-5xl mb-12 dark:text-white">
             About me
           </h1>
@@ -2579,7 +2579,7 @@ function App() {
                 </g>
               </svg>
             </span>
-            <div className="lg:pl-12 flex flex-col items-start">
+            <div className="lg:pl-12 flex flex-col items-center lg:items-start">
               <h3 className="text-center font-medium text-2xl lg:text-left">
                 A little word about myself...
               </h3>
@@ -3858,7 +3858,8 @@ function App() {
                 have been added. My goal with this clone was to integrate
                 tailwindcss along with the new version of Redux (Redux Toolkit).
                 The languages and frameworks used for this project are mainly:
-                ReactJS, NodeJS (to serve the client side build folder) and Tailwindcss.
+                ReactJS, NodeJS (to serve the client side build folder) and
+                Tailwindcss.
               </p>
               <div className="flex items-center">
                 <a
